@@ -3,7 +3,7 @@
     {
       "name": "MauaBoards",
       "maintainer": "Maua",
-      "websiteURL": "https://github.com/smartcampusmaua",
+      "websiteURL": "https://github.com/caiobrunholi/testmauaboards",
       "email": "caio.panes@maua.br",
       "help": {
         "online": ""
@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "1.0.10",
           "category": "ESP32",
-          "url": "https://github.com/pion-labs/pion-educational-kits/releases/download/1.0.2/pion-kits-1.0.2.zip",
-          "archiveFileName": "pion-kits-1.0.2.zip",
-          "checksum": "SHA-256:bbe8e933b5a3e3a9bcc0462555fafb2e99d4484bcff4e5f13ee80ed3a0eccb23",
-          "size": "57289068",
+          "url": "https://github.com/caiobrunholi/testmauaboards/releases/download/Release_01/MauaBoards_01.zip",
+          "archiveFileName": "MauaBoards_01.zip",
+          "checksum": "SHA-256:56887e626b1dfae76e954b11c8ccdc62",
+          "size": "55053543",
           "help": {
             "online": ""
           },
@@ -49,10 +49,10 @@
           "architecture": "esp32",
           "version": "1.0.10",
           "category": "ESP32",
-          "url": "https://github.com/pion-labs/pion-educational-kits/releases/download/1.0.1/pion-kits-1.0.1.zip",
-          "archiveFileName": "pion-kits-1.0.1.zip",
-          "checksum": "SHA-256:bbe8e933b5a3e3a9bcc0462555fafb2e99d4484bcff4e5f13ee80ed3a0eccb23",
-          "size": "57289068",
+          "url": "https://github.com/caiobrunholi/testmauaboards/releases/download/Release_01/MauaBoards_01.zip",
+          "archiveFileName": "MauaBoards_01.zip",
+          "checksum": "SHA-256:56887e626b1dfae76e954b11c8ccdc62",
+          "size": "55053543",
           "help": {
             "online": ""
           },
@@ -84,10 +84,10 @@
           "architecture": "esp32",
           "version": "1.0.10",
           "category": "ESP32",
-          "url": "https://github.com/pion-labs/pion-educational-kits/releases/download/1.0.0/pion-kits-1.0.0.zip",
-          "archiveFileName": "pion-kits-1.0.0.zip",
-          "checksum": "SHA-256:0bcc9ccbb60ddedc2149f2a7700ad6d2fe93a461c545dcd49ff6836d08bb5314",
-          "size": "57276404",
+          "url": "https://github.com/caiobrunholi/testmauaboards/releases/download/Release_01/MauaBoards_01.zip",
+          "archiveFileName": "MauaBoards_01.zip",
+          "checksum": "SHA-256:56887e626b1dfae76e954b11c8ccdc62",
+          "size": "55053543",
           "help": {
             "online": ""
           },
