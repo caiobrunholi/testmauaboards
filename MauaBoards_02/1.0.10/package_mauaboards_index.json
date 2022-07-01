@@ -16,78 +16,8 @@
           "category": "ESP32",
           "url": "https://github.com/caiobrunholi/testmauaboards/releases/download/Release_02/MauaBoards_02.zip",
           "archiveFileName": "MauaBoards_02.zip",
-          "checksum": "SHA-256:d04b163b038ec3cf162dd73c839c24c9",
-          "size": "55878569",
-          "help": {
-            "online": ""
-          },
-          "boards": [
-            {
-              "name": "MauaBoards"
-            }
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "MauaBoards",
-              "name": "xtensa-esp32-elf-gcc",
-              "version": "1.22.0-97-gc752ad5-5.2.0"
-            },
-            {
-              "packager": "MauaBoards",
-              "name": "esptool_py",
-              "version": "3.0.0"
-            },
-            {
-              "packager": "MauaBoards",
-              "name": "mkspiffs",
-              "version": "0.2.3"
-            }
-          ]
-        },
-        {
-          "name": "MauaBoards",
-          "architecture": "esp32",
-          "version": "1.0.10",
-          "category": "ESP32",
-          "url": "https://github.com/caiobrunholi/testmauaboards/releases/download/Release_02/MauaBoards_02.zip",
-          "archiveFileName": "MauaBoards_02.zip",
-          "checksum": "SHA-256:d04b163b038ec3cf162dd73c839c24c9",
-          "size": "55878569",
-          "help": {
-            "online": ""
-          },
-          "boards": [
-            {
-              "name": "MauaBoards"
-            }
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "MauaBoards",
-              "name": "xtensa-esp32-elf-gcc",
-              "version": "1.22.0-97-gc752ad5-5.2.0"
-            },
-            {
-              "packager": "MauaBoards",
-              "name": "esptool_py",
-              "version": "3.0.0"
-            },
-            {
-              "packager": "MauaBoards",
-              "name": "mkspiffs",
-              "version": "0.2.3"
-            }
-          ]
-        },
-        {
-          "name": "MauaBoards",
-          "architecture": "esp32",
-          "version": "1.0.10",
-          "category": "ESP32",
-          "url": "https://github.com/caiobrunholi/testmauaboards/releases/download/Release_02/MauaBoards_02.zip",
-          "archiveFileName": "MauaBoards_02.zip",
-          "checksum": "SHA-256:d04b163b038ec3cf162dd73c839c24c9",
-          "size": "55878569",
+          "checksum": "SHA-256:de3ffed3505cf2da2ff5c9281b1ea14a",
+          "size": "55878546",
           "help": {
             "online": ""
           },
